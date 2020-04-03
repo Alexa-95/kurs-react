@@ -1,0 +1,10 @@
+li {
+  margin: 1em 0;
+  font-size: 24px;
+  width: 250px;
+}
+button {
+  display: block;
+  float: right;
+  margin: auto 0;
+}
